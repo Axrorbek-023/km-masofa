@@ -17,14 +17,14 @@ function fn() {
     var vaqt4 = 800
     
     var result = masofa / vaqt
-    h1.textContent = result + 'soat'
+    h1.textContent = result + ' soat'
 
     var result = masofa / vaqt2
-    h2.textContent = result + 'soat'
+    h2.textContent = result + ' soat'
 
     var result = masofa / vaqt3
-    h3.textContent = result + 'soat'
+    h3.textContent = result + ' soat'
 
     var result = masofa / vaqt4
-    h4.textContent = result + 'soat'
+    h4.textContent = result + ' soat'
 }
